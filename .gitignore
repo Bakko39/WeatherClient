@@ -1,3 +1,7 @@
 # build output directories
 bin/
 obj/
+
+# Environment files
+
+.env
